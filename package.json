@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "esbuild": "^0.14.38",
+    "three": "^0.140.0"
+  },
+  "name": "Shaders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
